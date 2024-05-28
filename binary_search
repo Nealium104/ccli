@@ -1,0 +1,18 @@
+def main(array, target):
+	low = 0
+	high = len(array) - 1
+	while low < high:
+		mid = (low+high) // 2
+		if target > array[mid]:
+			low = mid + 1
+		elif target < array[mid]:
+			high = mid - 1
+		else:
+			return mid
+	return None
+
+# Do not touch below this line. This is the test for the code you will write above
+def test():
+	assert main([1,2,3,4,5], 3) == 5, "Should be 2"
+
+test()
