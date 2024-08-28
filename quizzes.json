@@ -1,0 +1,104 @@
+[
+    {
+        "id": 0,
+        "title": "Python: The Basics",
+        "question_set": [
+            {
+                "question": "What keyword is used to define a function in Python?",
+                "choices": [
+                    "func",
+                    "def",
+                    "function",
+                    "lambda"
+                ],
+                "answer": "def"
+            },
+            {
+                "question": "How do you insert comments in Python code?",
+                "choices": [
+                    "//",
+                    "#",
+                    "/* */",
+                    "<!-- -->"
+                ],
+                "answer": "#"
+            },
+            {
+                "question": "What is the output of 'print(2 ** 3)' in Python?",
+                "choices": [
+                    "5",
+                    "6",
+                    "7",
+                    "8"
+                ],
+                "answer": "8"
+            },
+            {
+                "question": "Which of the following is not a Python keyword?",
+                "choices": [
+                    "pass",
+                    "assert",
+                    "nonlocal",
+                    "eval"
+                ],
+                "answer": "eval"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Photography: The Basics",
+        "question_set": [
+            {
+                "question": "What is the rule of thirds in photography?",
+                "choices": [
+                    "A guideline to frame your subject in the center",
+                    "A guideline to divide the image into nine equal parts",
+                    "A guideline to use three colors in your photo",
+                    "A guideline to take three photos of the same subject"
+                ],
+                "answer": "A guideline to divide the image into nine equal parts"
+            },
+            {
+                "question": "Which aperture setting allows the most light into the camera?",
+                "choices": [
+                    "f/2.8",
+                    "f/8",
+                    "f/16",
+                    "f/22"
+                ],
+                "answer": "f/2.8"
+            },
+            {
+                "question": "What does ISO measure in photography?",
+                "choices": [
+                    "The lens quality",
+                    "The shutter speed",
+                    "The camera's sensitivity to light",
+                    "The focus distance"
+                ],
+                "answer": "The camera's sensitivity to light"
+            },
+            {
+                "question": "Which of the following is a type of lens commonly used for portrait photography?",
+                "choices": [
+                    "Telephoto lens",
+                    "Wide-angle lens",
+                    "Macro lens",
+                    "Fisheye lens"
+                ],
+                "answer": "Telephoto lens"
+            },
+            {
+                "question": "What does the term 'bokeh' refer to in photography?",
+                "choices": [
+                    "The camera's shutter noise",
+                    "The blur produced in the out-of-focus parts of an image",
+                    "The light metering mode",
+                    "The type of camera sensor"
+                ],
+                "answer": "The blur produced in the out-of-focus parts of an image"
+            }
+        ]
+    }
+]

@@ -3,4 +3,5 @@ class Player:
         self.name = name
         self.role = role
         self.exp = exp
+        self.expquizzes_completed = []
         print(f"Player {self.name} loaded!")
